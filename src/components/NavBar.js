@@ -3,7 +3,7 @@ import CartWidget from "./CartWidget"
 import logo from "../components/imagenes/logo-zapa.png"
 
 
-export const NavBar = () => {
+function NavBar() {
     return (
         <div>
             <nav className="navbar navbar-expand-lg bg-light">
